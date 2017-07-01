@@ -1,7 +1,9 @@
 # Consistent Discretization and Minimization of the L1 Norm on Manifolds
 [[Arxiv]](https://arxiv.org/pdf/1609.05434)
 
-Evaluation code for Unrestricted Facial Geometry Reconstruction Using Image-to-Image Translation. Given a single image, the code outputs the reconstructed mesh.
+Evaluation code for Consistent Discretization and Minimization of the L1 Norm on Manifolds.
+This code demonstrate the computation and minimization of the 1st order approximation of the L1 norm defined over triangulated meshes.
+As a case study, it computes the Compressed Manifold Modes of a shape, regularized by the proposed norm.
 
 <img src="imgs/IRLS_michael.png" width="900px"/>
 
