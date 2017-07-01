@@ -7,7 +7,7 @@ As a case study, it computes the Compressed Manifold Modes of a shape, regulariz
 
 <img src="imgs/IRLS_michael.png" width="900px"/>
 
-Error analysis of different discretizations of the L1 norm.
+Error analysis of different discretizations of the L1 norm:
 <img src="imgs/error_analysis.png" width="900px"/>
 
 Weight computation (for more details - read the <a href="https://arxiv.org/pdf/1609.05434">paper</a>).
